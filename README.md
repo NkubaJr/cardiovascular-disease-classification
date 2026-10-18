@@ -3,7 +3,6 @@
 Summative assignment, Machine Learning (Model Training and Evaluation).
 This project predicts the presence of cardiovascular disease from routine clinical and lifestyle measurements and compares scikit-learn models with Keras neural networks under one evaluation protocol.
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NkubaJr/cardiovascular-disease-classification/blob/main/cardiovascular_disease_classification.ipynb)
 
 ## Links
 - Written report: see the submitted PDF
